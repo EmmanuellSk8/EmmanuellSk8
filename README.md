@@ -7,7 +7,7 @@
 </div>
 <br><br>
 
-  ![Emmanuel's github stats](https://github-readme-stats.vercel.app/api?username=Emmanuellsk8&show_icons=true&theme=tokyonight) | ![Emmanuel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Emmanuellsk8&theme=tokyonight) |
+  ![Emmanuel's github stats](https://github-readme-stats.vercel.app/api?username=Emmanuellsk8&show_icons=true&theme=tokyonight) |  [![GitHub Streak](https://streak-stats.demolab.com?user=Emmanuellsk8&theme=tokyonight)](https://git.io/streak-stats) |
   | --- | --- |
 <!--
  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuellsk8&theme=tokyonight)  | 
