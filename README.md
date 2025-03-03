@@ -1,7 +1,10 @@
 <div align="center">
 <h2> Hola, <𝚍𝚎𝚟𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
-  
+  <div align="center">
+    
+  ![snake gif](https://github.com/Emmanuellsk8/Emmanuellsk8/blob/output/github-contribution-grid-snake-dark.svg)
+</div>
 <br><br>
 
   ![Emmanuel's github stats](https://github-readme-stats.vercel.app/api?username=Emmanuellsk8&show_icons=true&theme=tokyonight) | ![Emmanuel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Emmanuellsk8&theme=tokyonight) |
