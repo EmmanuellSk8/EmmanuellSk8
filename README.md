@@ -7,6 +7,8 @@
 </div>
 <br><br>
 
+  ![Emmanuel's github stats](https://github-readme-stats.vercel.app/api?username=Emmanuellsk8&show_icons=true&theme=tokyonight)
+<!--
   ![Emmanuel's github stats](https://github-readme-stats.vercel.app/api?username=Emmanuellsk8&show_icons=true&theme=tokyonight) |  [![GitHub Streak](https://streak-stats.demolab.com?user=Emmanuellsk8&theme=tokyonight)](https://git.io/streak-stats) |
   | --- | --- |
 <!--
