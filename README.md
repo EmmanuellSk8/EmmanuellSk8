@@ -35,7 +35,7 @@ Me llamo Emmanuel, tengo más de 3 años de experiencia como desarrollador, me e
 
 <a href="https://www.linkedin.com/in/emmanuel-guerra-hoyos-414626279/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://portfolio-gamma-vert-39.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqXzCwZvLlDJLQfxWkTkWmrlDRNJMLtfSZVXjbcdWTBkGpGQnFwtvVrmzvrRtdvPMzxRxV" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDbhCNGlrmkLsGBWbtxbjkqLgNrtBrvVQfWjlRGbZqjjXRbBMFZLbgwXdNvhPvfVXFdJZMS" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 </div>
 
