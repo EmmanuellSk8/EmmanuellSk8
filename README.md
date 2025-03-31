@@ -30,7 +30,7 @@ Me llamo Emmanuel, tengo más de 3 años de experiencia como desarrollador, me e
 <h2 >Tecnologías usadas👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,astro,angular,tailwind,javascript,typescript,nodejs,java,kotlin,mysql,spring,git,github,docker,postman,vscode,idea&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,astro,angular,react,tailwind,javascript,typescript,nodejs,java,kotlin,mysql,spring,git,github,docker,postman,vscode,idea&perline=12" />
   </a>
 </p>
 <br>
