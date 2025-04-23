@@ -6,13 +6,13 @@
   ![snake gif](https://github.com/Emmanuellsk8/Emmanuellsk8/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 <br><br>
-<!--
-  ![Emmanuel's github stats](https://github-readme-stats.vercel.app/api?username=Emmanuellsk8&show_icons=true&theme=tokyonight)
- -->
 
+  ![Emmanuel's github stats](https://github-readme-stats.vercel.app/api?username=Emmanuellsk8&show_icons=true&theme=tokyonight)
+
+<!--
   ![Emmanuel's github stats](https://github-readme-stats.vercel.app/api?username=Emmanuellsk8&show_icons=true&theme=tokyonight) |  [![GitHub Streak](https://streak-stats.demolab.com?user=Emmanuellsk8&theme=tokyonight)](https://git.io/streak-stats) |
   | --- | --- |
-
+ -->
 <!--
  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuellsk8&theme=tokyonight)  | 
 -->
@@ -30,7 +30,7 @@ Me llamo Emmanuel, tengo más de 3 años de experiencia como desarrollador, me e
 <h2 >Tecnologías usadas👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,astro,angular,react,tailwind,javascript,typescript,nodejs,java,kotlin,mysql,mongodb,aws,spring,git,github,docker,postman,vscode,idea&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,astro,angular,react,tailwind,javascript,typescript,nodejs,java,kotlin,mysql,mongodb,aws,supabase,spring,git,github,docker,postman,vscode,idea&perline=12" />
   </a>
 </p>
 <br>
