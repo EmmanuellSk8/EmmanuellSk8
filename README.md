@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Hola, <𝚍𝚎𝚟𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hi, <𝚍𝚎𝚟𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
   <div align="center">
     
@@ -21,14 +21,9 @@
 <br>
 <br>
 
-<div align="center">
-<br>
-Finalmente encontraste mi perfil. <br>
-Me llamo Emmanuel, tengo más de 3 años de experiencia como desarrollador, me especializo en crear aplicaciones de software interactivas, funcionales y visualmente atractivas. Mi pasión es transformar ideas en experiencias digitales que destacan por su diseño intuitivo y su alto rendimiento.<br>
 
-</div><br>
 
-<h2 >Tecnologías usadas👨🏻‍💻</h2>
+<h2 >Technologies used 👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,astro,angular,react,tailwind,javascript,typescript,nodejs,java,kotlin,mysql,mongodb,aws,supabase,spring,git,github,docker,postman,vscode,idea&perline=12" />
