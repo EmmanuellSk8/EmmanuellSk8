@@ -26,7 +26,7 @@
 <h2 >Technologies used 👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,astro,angular,react,tailwind,javascript,typescript,nodejs,java,kotlin,mysql,mongodb,aws,supabase,spring,git,github,docker,postman,vscode,idea&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,astro,angular,react,tailwind,javascript,typescript,nodejs,kotlin,mysql,mongodb,aws,supabase,spring,git,github,docker,postman,vscode,idea&perline=12" />
   </a>
 </p>
 <br>
