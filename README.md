@@ -7,13 +7,13 @@
 </div>
 <br><br>
 
-<!--
-  ![Emmanuel's github stats](https://github-readme-stats.vercel.app/api?username=Emmanuellsk8&show_icons=true&theme=tokyonight)
--->
 
+  ![Emmanuel's github stats](https://github-readme-stats.vercel.app/api?username=Emmanuellsk8&show_icons=true&theme=tokyonight)
+
+<!--
   ![Emmanuel's github stats](https://github-readme-stats.vercel.app/api?username=Emmanuellsk8&show_icons=true&theme=tokyonight) |  [![GitHub Streak](https://streak-stats.demolab.com?user=Emmanuellsk8&theme=tokyonight)](https://git.io/streak-stats) |
   | --- | --- |
-
+-->
 <!--
  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuellsk8&theme=tokyonight)  | 
 -->
@@ -23,7 +23,7 @@
 
 
 
-<h2 >Technologies used 👨🏻‍💻</h2>
+<h2 >Technologies used 👨🏽‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,astro,angular,react,tailwind,javascript,typescript,nodejs,kotlin,mysql,mongodb,aws,supabase,spring,git,github,docker,postman,vscode,idea&perline=12" />
